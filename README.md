@@ -14,10 +14,10 @@ I'm a **Data Engineer** who designs and builds scalable data pipelines that turn
 
 - 🔭 Currently building: **End-to-end Azure Data Platform** (ADF → Databricks → dbt → Synapse → Power BI)
 - - 🌱 Learning: **Apache Flink**, **Delta Live Tables**, **Data Mesh**
-  - - 💬 Ask me about: **PySpark, dbt, Azure Data Factory, Airflow, Delta Lake**
-    - - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishekrewale99)
+  -  💬 Ask me about: **PySpark, dbt, Azure Data Factory, Airflow, Delta Lake**
+    -  📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishekrewale99)
      
-      - ---
+      ---
 
       ## 🛠️ Tech Stack
 
