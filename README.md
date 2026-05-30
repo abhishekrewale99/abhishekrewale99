@@ -98,6 +98,6 @@ I'm a **Data Engineer** who designs and builds scalable data pipelines that turn
 
       ## 🤝 Let's Connect
 
-      I'm always open to discussing data architecture, pipeline design, and engineering challenges. Feel free to reach out!
+      I'm always open to discussing data architecture, pipeline design, and engineering challenges.
 
-      [![Let's connect on LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekrewale99)
+      [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekrewale99)
